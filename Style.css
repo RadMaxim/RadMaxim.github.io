@@ -1,0 +1,53 @@
+.navbar{
+   height: 100px;
+   background-color: rgba(1, 27, 142, 0.587);
+   
+}
+ul{
+   width: 100%;
+   display: flex;
+   justify-content: space-around;
+   text-transform: uppercase;
+   margin-left: 200px;
+}
+.nav-link{
+   color: white;
+}
+.navbar-brand{
+   margin-left: 40px;
+}
+#card-body{
+   
+   box-sizing: border-box;
+   
+}
+.card{
+   height: 250px;
+   margin: 10px;
+}
+#card-body1{
+   margin: 0%;
+   box-sizing: border-box;
+   padding: 0%;
+   height: 170px;
+   background-color: rgba(216, 220, 237, 0.587);
+   box-sizing: border-box;
+}
+
+#card-text{
+   margin-top: 180px;
+   height: 170px;
+   box-sizing: border-box;
+   display: block;
+   border: 0ch;
+}
+#slide {
+   margin-top: 20px;
+   transform: scale(0.95);
+}
+#out{
+   background-image: url(https://img1.goodfon.ru/wallpaper/nbig/3/f9/turbina-krylchatka-detali.jpg);
+   margin: 0%;
+   padding: 0%;
+}
+
